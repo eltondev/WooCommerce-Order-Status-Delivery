@@ -8,4 +8,4 @@ O plugin também envia o detalhe do campo via email, sendo fácil para o cliente
 
 Enfim um plugin simples, que em breve terá uma atualização, espero sua contribuição.
 
-###E viva o OpenSource
+####E viva o OpenSource!!!
