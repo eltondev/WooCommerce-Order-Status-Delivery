@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Filter WooCommerce Shop Order
+Plugin Name: WooCommerce Order Status Delivery
 Plugin URI: https://github.com/eltondev/WooCommerce-Order-Status-Delivery 
 Description: Plugin para opção de escolha em modo de Retirada local, dando opção de dias da semana, no caso Quinta-Feira e Sexta-Feira.
 Version: 1.0
